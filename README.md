@@ -1,8 +1,6 @@
 ## Hi there 👋
 
-[![Justin's GitHub stats](https://github-readme-stats.vercel.app/api?username=goshornjustin&show_icons=truetheme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=goshornjustin)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats) -->
@@ -21,3 +19,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![Justin's GitHub stats](https://github-readme-stats.vercel.app/api?username=goshornjustin&show_icons=truetheme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=goshornjustin)](https://github.com/anuraghazra/github-readme-stats)
