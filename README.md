@@ -21,8 +21,8 @@ Here are some ideas to get you started:
 -->
 <div align="center">
 
-![Stats](./stats.svg)
-![Top Languages](./top-langs.svg)
-![Pinned](./pin-readme-tools-github-readme-stats.svg)
+![Stats](./profile/stats.svg)
+![Top Languages](./profile/top-langs.svg)
+![Pinned](./profile/pin-readme-tools-github-readme-stats.svg)
 
 </div>
