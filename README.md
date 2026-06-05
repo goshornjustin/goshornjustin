@@ -1,9 +1,9 @@
 ## Hi there 👋
 
+My name is Justin. I'm a developer primarily focusing on mobile development using Flutter or React Native.
 
 
-
-<!-- [![Readme Card](github-readme-stats-omega-three-82.vercel.app)](github-readme-stats-omega-three-82.vercel.app) -->
+<!-- [![Readme Card](https://github-readme-stats-git-master-justing-s-projects.vercel.app)](https://github-readme-stats-git-master-justing-s-projects.vercel.app) -->
 
 <!--
 **goshornjustin/goshornjustin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -21,8 +21,8 @@ Here are some ideas to get you started:
 -->
 <div align="center">
 
-![Stats](github-readme-stats-omega-three-82.vercel.app/api)
-![Top Languages](github-readme-stats-omega-three-82.vercel.app/api/top-langs)
+![Stats](https://github-readme-stats-git-master-justing-s-projects.vercel.app/api)
+![Top Languages](https://github-readme-stats-git-master-justing-s-projects.vercel.app/api/top-langs)
 <!-- ![Pinned](./profile/pin-readme-tools-github-readme-stats.svg) -->
 
 </div>
