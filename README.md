@@ -3,7 +3,7 @@
 
 
 
-<!-- [![Readme Card](https://goshornjustin-hyxy.vercel.app/)](https://goshornjustin-hyxy.vercel.app/) -->
+<!-- [![Readme Card](github-readme-stats-omega-three-82.vercel.app)](github-readme-stats-omega-three-82.vercel.app) -->
 
 <!--
 **goshornjustin/goshornjustin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
