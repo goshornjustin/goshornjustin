@@ -21,8 +21,8 @@ Here are some ideas to get you started:
 -->
 <div align="center">
 
-![Stats](./profile/stats.svg)
-![Top Languages](./profile/top-langs.svg)
+![Stats](github-readme-stats-omega-three-82.vercel.app)
+![Top Languages](github-readme-stats-omega-three-82.vercel.app)
 <!-- ![Pinned](./profile/pin-readme-tools-github-readme-stats.svg) -->
 
 </div>
