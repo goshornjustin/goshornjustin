@@ -3,6 +3,7 @@
 My name is Justin. I'm a developer primarily focusing on mobile development using Flutter or React Native.
 
 
+
 <!-- [![Readme Card](https://github-readme-stats-git-master-justing-s-projects.vercel.app)](https://github-readme-stats-git-master-justing-s-projects.vercel.app) -->
 
 <!--
@@ -21,8 +22,10 @@ Here are some ideas to get you started:
 -->
 <div align="center">
 
-![Stats](https://github-readme-stats-git-master-justing-s-projects.vercel.app/api)
+<!--![Stats](https://github-readme-stats-git-master-justing-s-projects.vercel.app/api)
 ![Top Languages](https://github-readme-stats-git-master-justing-s-projects.vercel.app/api/top-langs)
-<!-- ![Pinned](./profile/pin-readme-tools-github-readme-stats.svg) -->
+ ![Pinned](./profile/pin-readme-tools-github-readme-stats.svg) -->
 
 </div>
+
+
